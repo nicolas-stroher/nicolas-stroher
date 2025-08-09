@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vindo!👋
 
 <!--
 **nicolas-stroher/nicolas-stroher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Olá!👋 Meu nome é Nícolas Atkinson Ströher, sou estudante de Sistemas de Informação na Universidade Federal de Santa Maria (UFSM) 🏫.
+
+Possuo grande interesse na área de programação back-end 💻, bem como nas áreas de desenvolvimento, administração🗒️ e TI 👨‍💻!
+
+Atualmente realizando o curso de SI; estudando e explorando novas linguagens e recursos; e buscando crescer profissionalmente!
+
+HABILIDADES: <br>
+Programação Web | Pacote Office | Resolução de Problemas
+
+LINGUAGENS/FERRAMENTAS: <br>
+HTML | CSS | PHP | Python | C | VSCode
+
+-  🌱 Entrando no mundo da informática, desenvolvimento e informação!
+-  🌱 Aprendendo Programação Web e banco de dados (MySQL)
+-  💡 Buscando novas oportunidades, aprendizados e conexões 
+-  📫 Contato: <a href="https://www.instagram.com/nico.stroher?igsh=eGgwb2Frdmx0YjR0">Instagram</a> | <a href="https://www.linkedin.com/in/n%C3%ADcolas-atkinson-str%C3%B6her-269181344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
